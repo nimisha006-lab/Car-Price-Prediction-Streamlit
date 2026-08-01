@@ -48,7 +48,7 @@ The trained Random Forest model was saved using Joblib (`model.pkl`), and the la
 ## PROJECT STRUCTURE
 
 README.md
-
+```
 Car-Price-Prediction-App/
 │
 ├── app.py
@@ -57,3 +57,4 @@ Car-Price-Prediction-App/
 ├── requirements.txt
 ├── training.ipynb
 └── cardekho_dataset.csv
+```
